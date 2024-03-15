@@ -57,6 +57,6 @@ git push -u origin H0712310-- # Sesuaikan dengan NIM masing-masing
 ## Tips Tambahan
 
 Pastikan untuk memberi nama yang deskriptif pada cabang dan commit kamu.
-Selalu sinkronkan kode kamu dengan cabang utama sebelum membuat PR baru.
-Gunakan pesan commit yang jelas agar mudah dimengerti oleh rekan timmu.
+Selalu sinkronkan kode kamu dengan cabang utama sebelum membuat tugas baru.
+Gunakan pesan commit yang jelas agar mudah dimengerti olehmu suatu saat nanti.
 Terima kasih atas kontribusimu dalam LAB-PBO-10-2024!
